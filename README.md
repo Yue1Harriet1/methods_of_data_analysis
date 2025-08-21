@@ -5,8 +5,8 @@ learning materials and hands-on projects
 ## References and Userful Resources
 
 ### Theories
-[Note 1](https://ian-zhang.com/notes/STA302_Notes.pdf)
-[Note 2]()
+- [Note 1](https://ian-zhang.com/notes/STA302_Notes.pdf)
+- [Note 2]()
 
 ### R 
 - [Basic Analysis in R, SFU](https://www.sfu.ca/~mjbrydon/tutorials/BAinR/)
