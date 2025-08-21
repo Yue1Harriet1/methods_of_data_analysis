@@ -14,6 +14,5 @@ learning materials and hands-on projects
 - [Solutions to `A Modern Approach to Regression with R` book ](https://jolars.github.io/MARsolutions/introduction.html)
 
 ### Combining Theories with R
-
--[Learning statistics with R, nice and comprehensive](https://bookdown.org/ekothe/navarro26/)
+- [Learning statistics with R, nice and comprehensive](https://bookdown.org/ekothe/navarro26/)
 
