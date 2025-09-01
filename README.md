@@ -7,6 +7,7 @@ learning materials and hands-on projects
 ### Theories
 - [Note 1](https://ian-zhang.com/notes/STA302_Notes.pdf)
 - [Note 2]()
+- [eth zurich](https://stat.ethz.ch/education/semesters/ss2016/regression/Regression.pdf)
 
 ### R 
 - [Basic Analysis in R, SFU](https://www.sfu.ca/~mjbrydon/tutorials/BAinR/)
