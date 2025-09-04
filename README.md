@@ -16,4 +16,5 @@ learning materials and hands-on projects
 
 ### Combining Theories with R
 - [Learning statistics with R, nice and comprehensive](https://bookdown.org/ekothe/navarro26/)
+- [UTM practice problems](https://utstat.toronto.edu/brunner/oldclass/302f20/)
 
