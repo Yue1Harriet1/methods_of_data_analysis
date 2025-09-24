@@ -1,1 +1,33 @@
+---
+title: "STA302 Project documentation"
+output: html_document
+---
 
+# Evaluation Rubrics
+
+|     Rubrics   |Candidate1|Candidate2|
+|---------------|:--------:|---------:|
+|Data: >1000 obs|          |.         |
+|Data: >9 predictors|      |          |
+|Data: >1 numerical predictor|        |    |
+|Data: >1 factor predictor|        |    |
+|Ethics: aligh with the original usage/purpose of the dataset|        | |
+|Model feasibility: numerical response|        |    |
+|Model feasibility: >1 no time-autocorrelated obs|        |    |
+|Established Research: >3 peer-reviewed articles|        |    |
+
+
+
+
+# Immigrants’ sense of belonging to Canada by province of residence
+
+## Data Source:
+
+-[2020 General Social Survey - an annual, cross-sectional survey](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2023006/article/00003-eng.htm)
+
+  - [List of all General Social Survey / General Social Service Program](https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm)
+
+
+## Lesson learnt for assumptions of linear regression
+- not good for time dependent data
+- not good for categorical response variable, neither for count data
